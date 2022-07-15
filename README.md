@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+😄 My name is Maybemar (she/her), i am a LabVIEW developer, that has been building large LabVIEW applications for a while. 
+
+⚡ Find interesting articles i have wrote in my website: https://maybemarhs.com/blog/
+
+📫 Also i am a content creator, you can follow my different profiles here: https://zez.am/maybemarhs
+
+Don't forget to follow me! 😁
+
 <!--
 **maybemarhs/maybemarhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
